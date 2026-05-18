@@ -8,6 +8,7 @@
 
 | 项目 | 描述 |
 |---|---|
+| [audio-browser](https://github.com/anaouse/audio-browser) | 使用 PyQt6 编写的音频素材浏览器，方便编曲时候使用 |
 | [Tranquility](https://github.com/anaouse/tranquility) | 这是一个 txt 文本编辑器，平时知识库的管理我使用 obsidian，但是为了乐趣以及想要一个可以让我安安静静写纯文字的地方，所以使用 wails 框架编写了这个项目 |
 | [Translator](https://github.com/anaouse/translator) | 使用 PyQt6 编写的中英划词翻译软件 |
 | [ZhixiaCarbin](https://github.com/anaouse/zhixia_cabin_frontend) | 我的个人网页，可以直接访问 [ZhixiaCabin](https://zhixiacabin.xyz) |
